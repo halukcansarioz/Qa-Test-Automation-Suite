@@ -1,4 +1,5 @@
 # qa-test-automation-suite
+[![CI](https://github.com/halukcansarioz/qa-test-automation-suite/actions/workflows/ci.yml/badge.svg)](https://github.com/halukcansarioz/qa-test-automation-suite/actions/workflows/ci.yml)
 
 Modular V&V and end-to-end test automation framework built with Python, pytest, Playwright, Docker, and GitHub Actions CI.
 
